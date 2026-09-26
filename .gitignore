@@ -1,0 +1,9 @@
+config.json
+git_sync.sh
+git_sync.ps1
+venv/
+*.log
+ipinfo_cache.txt
+valid_tokens.txt
+__pycache__/
+.cache/
