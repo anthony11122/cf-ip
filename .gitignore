@@ -1,6 +1,11 @@
 config.json
 git_sync.sh
 git_sync.ps1
+Dockerfile
+docker-compose.yml
+entrypoint.sh
+scheduler.py
+requirements.txt
 venv/
 *.log
 ipinfo_cache.txt
